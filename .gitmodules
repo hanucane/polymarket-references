@@ -1,3 +1,33 @@
 [submodule "agents"]
 	path = agents
 	url = https://github.com/Polymarket/agents
+[submodule "atlas"]
+	path = atlas
+	url = https://github.com/FastLane-Labs/atlas
+[submodule "clob-client"]
+	path = clob-client
+	url = https://github.com/Polymarket/clob-client
+[submodule "ctf-exchange"]
+	path = ctf-exchange
+	url = https://github.com/Polymarket/ctf-exchange
+[submodule "examples"]
+	path = examples
+	url = https://github.com/Polymarket/examples
+[submodule "neg-risk-ctf-adapter"]
+	path = neg-risk-ctf-adapter
+	url = https://github.com/Polymarket/neg-risk-ctf-adapter
+[submodule "polymarket-mev-bundle-poc"]
+	path = polymarket-mev-bundle-poc
+	url = https://github.com/polymarket-mev-bundle-poc
+[submodule "polymarket-subgraph"]
+	path = polymarket-subgraph
+	url = https://github.com/Polymarket/polymarket-subgraph
+[submodule "proxy-factories"]
+	path = proxy-factories
+	url = https://github.com/Polymarket/proxy-factories
+[submodule "py-clob-client"]
+	path = py-clob-client
+	url = https://github.com/Polymarket/py-clob-client
+[submodule "uma-ctf-adapter"]
+	path = uma-ctf-adapter
+	url = https://github.com/Polymarket/uma-ctf-adapter
